@@ -1,7 +1,7 @@
 Package.describe({
     name: 'matteodem:server-session',
     summary : "Serverside Session through a Meteor.Collection (get, set, equals etc.)",
-    version: "0.4.2",
+    version: "0.5.2",
     git: "https://github.com/matteodem/meteor-server-session.git"
 });
 
